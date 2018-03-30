@@ -10,7 +10,6 @@
 ### **마크다운 언어 생각보다 쉬운듯?**
 # *다음 수업 때 뵙겠습니다*
 # 열심히 듣겠습니다. 감사합니다!!
-> Reference
 - - -
 마크다운 문법은 위키피디아[wiki]를 참조하였습니다.
 [wiki]: http://en.wikipedia.org/wiki/Markdown#Syntax_examples
